@@ -1,6 +1,6 @@
 import {ethers} from 'ethers';
 import { CONTRACT_ADDRESS } from '@darkforest_eth/contracts';
-import ABI from './DarkForest.js'
+import ABI from './DarkForestAbi.js'
 
 const PLAYER_ADDRESS = '0x26e695d87d68a738736059201d362501abbc4e1d';
 const XDAI = 'https://rpc.xdaichain.com/'
